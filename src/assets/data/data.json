@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "productName": "product6",
+      "categoryId": 3,
+      "price": 200,
+      "is_available": true
+    },
+    {
+      "id": 7,
+      "productName": "product7",
+      "categoryId": 2,
+      "price": 100,
+      "is_available": true
+    },
+    {
+      "id": 8,
+      "productName": "product8",
+      "categoryId": 1,
+      "price": 200,
+      "is_available": true
+    },
+    {
+      "id": "9",
+      "productName": "product9",
+      "categoryId": "2",
+      "price": "399",
+      "is_available": "true"
+    }
+  ],
+  "Category": [
+    {
+      "id": 1,
+      "name": "Category1"
+    },
+    {
+      "id": 2,
+      "name": "Category2"
+    },
+    {
+      "id": 3,
+      "name": "Category3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some content",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "someone"
+  }
+}
